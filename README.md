@@ -257,25 +257,8 @@ Because each router is directly connected to the LANs it serves, no DHCP relay (
 
 ---
 
-## 10. Repository Structure
 
-```
-.
-├── README.md
-├── dhcp_configured_multiple_lans.pkt
-└── screenshots/
-    ├── 01-topology.png
-    ├── 02-r3-dhcp.png
-    ├── 03-r2-dhcp.png
-    ├── 04-r1-dhcp.png
-    ├── 05-r3-link.png
-    ├── 06-r2-links.png
-    ├── 07-r1-link.png
-    ├── 08-r3-interfaces.png
-    ├── 09-r2-interfaces.png
-    └── 10-r1-interfaces.png
-```
 
 ## Author
 
-**Your Name** - [GitHub](https://github.com/your-username)
+**Bhagyesh Dhadiwal** - [GitHub](https://github.com/your-username)
